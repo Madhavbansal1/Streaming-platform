@@ -1,1 +1,1 @@
-export const db_name = "Streaming_platform"
+export const db_name = "Streaming_platform"                                                             
